@@ -7,7 +7,7 @@
 }
 .container{
     width: 1440px;
-    margin-left: 200px;
+    margin-left: 350px;
 }
 .travelnav{
     margin-top: 50px;
@@ -46,24 +46,22 @@
     box-shadow: black;
     width: 1182px;
     height: 560px;
-    h3{
-        font-family: "Bitter";
-        font-size: 36px;
-        color: rgba(50, 46, 41, 1);
-        width: 334px;
-        height: 112px;
-        padding-top: 200px;
-        margin-left: 100px;
-    }
-    p{
-      font-family: "Bitter";
+}
+.temporary{
+    font-family: "Bitter";
+    font-size: 36px;
+    color: rgba(50, 46, 41, 1);
+    width: 299px;
+    padding-top: 220px;
+    margin-left: 100px;
+}
+.Lana{
+    font-family: "Bitter";
       font-size: 18px;
       color: rgba(50, 46, 41, 1);
-      width: 341px;
-      height: 96px;
+      width: 300px;
       margin-left: 100px;
-      padding-top:  -50px;
-    }
+      padding-top:  -100px;
 }
 .irasmbtn{
     background-color: rgba(211, 165, 98, 1);
@@ -75,4 +73,42 @@
     font-size: 14px;
     color: rgba(255, 255, 255, 1);
     margin-left: 100px;
+    margin-top: 10px;
+}
+.isearch{
+    background-color: rgba(253, 251, 249, 1);
+    width: 727px;
+    height: 65px;
+    border-radius: 32px;
+    border-color: #D3A562;
+    border-style: ridge;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.imggroup{
+    position: absolute;
+    margin-top: -10px;
+    margin-left: -340px;
+    
+}
+.search{
+    font-family: "Bitter";
+    font-size: 14px;
+    color: rgba(136, 140, 148, 1);
+    position: absolute;
+    margin-top: -5px;
+    margin-left: 50px;
+}
+.put{
+    background-color: rgba(211, 165, 98, 1);
+    border-radius: 12px;
+    border: none;
+    width: 95px;
+    height: 40px;
+    font-family: "Bitter";
+    font-size: 14px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    margin-left: -120px;
+    margin-top: 113px;
 }
